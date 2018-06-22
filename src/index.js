@@ -5,7 +5,7 @@ import SearchBar from './components/search_bar';
 //Create the component/jsx
 const App = ()=>{
 return (<div>
-            <h1>What You Are Looking For? </h1> 
+            <h1>What Are You Looking For? </h1> 
             <div><SearchBar /> </div>
         </div>);
 }
